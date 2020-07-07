@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A fisher plugin github repo template
+title: A GitHub repo template for creating Fisher plugins
 ---
 
-Fishdots has grown to the size that it's taking up too much space, and takes too long during startup.  So, I've started work on a rewrite, based on the standard approach for autoloading and the approach recommended by the fisher plugin manager. That means a whole bunch of new repos, and probably a lot of refactoring of fishdots. 
+Fishdots has grown so much that it's taking up too much space, and shell load time is getting unweildy.  So, I've started a rewrite, based on the standard approach for autoloading using the plugin layout recommended by [fisher plugin manager](https://github.com/jorgebucaran/fisher). That means a whole bunch of new repos, and probably some refactoring for fishdots. 
 
 I've created a [Fisher plugin template](https://github.com/aabs/fisher-plugin) to use as the basis for each of the plugins I rewrite.
 
