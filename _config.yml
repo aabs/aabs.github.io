@@ -1,16 +1,16 @@
 ### Site metadata ###
 
-title: Jekyll Blog Demo
-description: "Minimal base for a static website built with Jekyll and a theme"
+title: The Wandering Glitch
+description: "Random thoughts"
 
-email: your-email@example.com
-twitter_username: jekyllrb
-github_username: jekyll
+email: industrial.inference@gmail.com
+twitter_username: aabs
+github_username: aabs
 
 ### Build settings ###
 
-url: "https://michaelcurrin.github.io"
-baseurl: "/jekyll-blog-demo"
+url: "https://aabs.github.io"
+baseurl: "/"
 
 theme: minima
 
