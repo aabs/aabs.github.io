@@ -9,9 +9,9 @@ layout: home
 
 ---
 
-Welcome to **Jekyll Blog Demo**
+Welcome to **The Wandering Glitch**
 
-> Minimal base for a static website built with Jekyll and a theme.
+> Random thoughts and notes to self.  Typically about software engineering in the semantic web space.
 
-- Github repo: [MichaelCurrin/jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo)
+- Github repo: [aabs/aabs.github.io](https://github.com/aabs/aabs.github.io)
 - Hosted using: [Github Pages](https://pages.github.com/)
