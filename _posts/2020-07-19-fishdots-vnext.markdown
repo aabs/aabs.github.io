@@ -5,7 +5,7 @@ title: fishdots rewrite
 
 Fishdots and its plugins were groaning under their own weight. It's in-memory function definitions model, inherited from before it was even a fishy thing, led to some serious load time lag.  Combine that with extensive use of tmux, and you have a recipe for frustration!
 
-The repo [fishdots2](github.com/aabs/fishdots2) ports everything over to use the inate autoloading capabilities of fish shell.  In the process of the rewrite, i've taken the chance to break it up, and make fd2 simpler and more clearly focused.
+The repo [fishdots2](http://github.com/aabs/fishdots2) ports everything over to use the inate autoloading capabilities of fish shell.  In the process of the rewrite, i've taken the chance to break it up, and make fd2 simpler and more clearly focused.
 
 It now has just these roles:
 
