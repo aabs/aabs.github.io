@@ -1,11 +1,13 @@
-Title: Automata-Based Programming With Petri Nets - Part 1
-Date: 2010-03-10 21:11
-Author: aabs
-Category: SemanticWeb
-Tags: CompSci, Computer Science, Petri Nets, programming
-Slug: programming-with-petri-nets
-Status: published
-Attachments: 2010/03/img6.png, 2010/03/img7.png, 2010/03/img5.png, 2010/03/img4.png, 2010/03/img21-e1267435371101.png, 2010/03/img3.png, 2010/03/img2.png, 2010/03/img1-e1267434652482.png
+---
+title: Automata-Based Programming With Petri Nets - Part 1
+date: 2010-03-10 21:11
+author: aabs
+category: SemanticWeb
+tags: CompSci, Computer Science, Petri Nets, programming
+slug: programming-with-petri-nets
+status: published
+attachments: 2010/03/img6.png, 2010/03/img7.png, 2010/03/img5.png, 2010/03/img4.png, 2010/03/img21-e1267435371101.png, 2010/03/img3.png, 2010/03/img2.png, 2010/03/img1-e1267434652482.png
+...
 
 *Petri Nets are extremely powerful and expressive, but they are not as widely used in the software development community as deterministic state machines. That's a pity - they allow us to solve problems beyond the reach of conventional state machines. This is the first in a mini-series on software development with Petri Nets. All of the code for a full feature-complete Petri Net library is available online at GitHub. You're welcome to take a copy, play with it and use it in your own projects. Code for this and subsequent articles can be found at* [*http://github.com/aabs/PetriNets*](http://github.com/aabs/PetriNets)*.  
 *

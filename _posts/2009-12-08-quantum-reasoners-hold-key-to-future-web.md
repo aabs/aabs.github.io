@@ -1,10 +1,12 @@
-Title: Quantum Reasoners Hold Key to Future Web
-Date: 2009-12-08 00:09
-Author: aabs
-Category: Semantic Web
-Tags: artificial intelligence, RDF, science, SemanticWeb, semweb, software, web3.0
-Slug: quantum-reasoners-hold-key-to-future-web
-Status: published
+---
+title: Quantum Reasoners Hold Key to Future Web
+date: 2009-12-08 00:09
+author: aabs
+category: Semantic Web
+tags: artificial intelligence, RDF, science, SemanticWeb, semweb, software, web3.0
+slug: quantum-reasoners-hold-key-to-future-web
+status: published
+...
 
 Last year, a company called [DWave Systems](http://www.dwavesys.com/) announced their quantum computer (the 'Orion') - another milestone on the road to practical quantum computing. Their [controversial](http://dwave.wordpress.com/2007/04/06/more-on-the-tr-interview/) claims seem worthy in their own right but they are particularly important to the semantic web (SW) community. The significance to the SW community was that their quantum computer solved problems akin to [Grover's Algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm) speeding up queries of disorderly databases.
 

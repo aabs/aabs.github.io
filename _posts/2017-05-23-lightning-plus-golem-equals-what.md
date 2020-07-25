@@ -1,10 +1,12 @@
-Title: Lightning + Golem = Pay per lambda?
-Date: 2017-05-23 14:59
-Author: aabs
-Category: architecture, blockchain, ideas
-Slug: lightning-plus-golem-equals-what
-Status: published
-Attachments: 2017/05/ibrahim-rifath-oaphds2yegq-unsplash.jpg
+---
+title: Lightning + Golem = Pay per lambda?
+date: 2017-05-23 14:59
+author: aabs
+category: architecture, blockchain, ideas
+slug: lightning-plus-golem-equals-what
+status: published
+attachments: 2017/05/ibrahim-rifath-oaphds2yegq-unsplash.jpg
+...
 
 Imagine a secure way to host Docker containers with functions (like Amazon Lambda) on the Golem compute platform, combined with Lightning Network, a massively scalable payment platform fast enough to support pay per use billing.
 

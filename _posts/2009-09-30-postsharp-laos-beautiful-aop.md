@@ -1,10 +1,12 @@
-Title: PostSharp Laos - Beautiful AOP.
-Date: 2009-09-30 12:39
-Author: aabs
-Category: .NET, functional programming, programming
-Tags: .NET, AOP, functional programming, postsharp, pure functions
-Slug: postsharp-laos-beautiful-aop
-Status: published
+---
+title: PostSharp Laos - Beautiful AOP.
+date: 2009-09-30 12:39
+author: aabs
+category: .NET, functional programming, programming
+tags: .NET, AOP, functional programming, postsharp, pure functions
+slug: postsharp-laos-beautiful-aop
+status: published
+...
 
 I've recently been using [PostSharp](http://msdn.microsoft.com/en-us/library/dd140063.aspx) 1.5 ([Laos](http://doc.postsharp.org/1.5/##PostSharp.HxS/UserGuide/Laos/Overview.html)) to implement various features such as logging, tracing, API performance counter recording, and repeatability on the softphone app I've been developing. Previously, we'd been either using hand-rolled code generation systems to augment the APIs with IDisposable-style wrappers, or hand coded the wrappers within the implementation code. The problem was that by the time we'd added all of the above, there were hundreds of lines of code to maintain around the few lines of code that actually provided a business benefit.
 

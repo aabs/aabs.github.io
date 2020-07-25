@@ -1,9 +1,11 @@
-Title: Pattern Matching in C#
-Date: 2008-11-14 08:46
-Author: aabs
-Category: SemanticWeb
-Slug: patternmatching
-Status: published
+---
+title: Pattern Matching in C#
+date: 2008-11-14 08:46
+author: aabs
+category: SemanticWeb
+slug: patternmatching
+status: published
+...
 
 I recently used Matthew Podwyszocki's [pattern matching](http://weblogs.asp.net/podwysocki/archive/2008/09/16/functional-c-pattern-matching.aspx) classes for a top level exception handler in an App I'm writing. Matthew's classes are a really nice fluent interface attaching predicates to functions generating results. I used it as a class factory to select between handlers for exceptions. Here's an example of how I used it:
 

@@ -1,10 +1,12 @@
-Title: Object Orientation? Not as we know it.
-Date: 2008-09-23 22:27
-Author: aabs
-Category: Semantic Web, SemanticWeb
-Slug: object-orientation-not-as-we-know-it
-Status: published
-Attachments: 2008/09/092308-2046-objectorien1.jpg, 2008/09/092308-2046-objectorien11.jpg
+---
+title: Object Orientation? Not as we know it.
+date: 2008-09-23 22:27
+author: aabs
+category: Semantic Web, SemanticWeb
+slug: object-orientation-not-as-we-know-it
+status: published
+attachments: 2008/09/092308-2046-objectorien1.jpg, 2008/09/092308-2046-objectorien11.jpg
+...
 
 ![](http://www.usask.ca/education/coursework/skaalid/theory/gestalt/gestaltimages/horses2.jpg){width="274" height="169"}
 

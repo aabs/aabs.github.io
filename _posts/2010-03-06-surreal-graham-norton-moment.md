@@ -1,10 +1,12 @@
-Title: Surreal Graham Norton Moment
-Date: 2010-03-06 20:15
-Author: aabs
-Category: humour
-Tags: weird
-Slug: surreal-graham-norton-moment
-Status: published
+---
+title: Surreal Graham Norton Moment
+date: 2010-03-06 20:15
+author: aabs
+category: humour
+tags: weird
+slug: surreal-graham-norton-moment
+status: published
+...
 
 Today I got my first experience of being caught in a storm of golf ball sized hailstones. We'd decided to take the day out and visit the Moomba Festival in the city centre. All was well, and the kids were in a cub scouts arena trying their hands at rock climbing. Suddenly, we heard an ominous rumbling and within seconds we were pelted with inch thick hailstones.
 

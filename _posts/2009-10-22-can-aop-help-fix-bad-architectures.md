@@ -1,10 +1,12 @@
-Title: Can AOP help fix bad architectures?
-Date: 2009-10-22 08:55
-Author: aabs
-Category: .NET, programming
-Tags: .NET, AOP, Aspect Oriented Programming, postsharp, SOA
-Slug: can-aop-help-fix-bad-architectures
-Status: published
+---
+title: Can AOP help fix bad architectures?
+date: 2009-10-22 08:55
+author: aabs
+category: .NET, programming
+tags: .NET, AOP, Aspect Oriented Programming, postsharp, SOA
+slug: can-aop-help-fix-bad-architectures
+status: published
+...
 
 I recently posted a [question](http://stackoverflow.com/questions/1541697/refactoring-nasty-legacy-systems-via-aop-or-other-automated-means) on Stack Overflow on the feasibility of using IL rewriting frameworks to rectify bad design after the fact. The confines of the answer comment area were too small to give the subject proper treatment so I though a new blog post was in order. Here's the original question:
 

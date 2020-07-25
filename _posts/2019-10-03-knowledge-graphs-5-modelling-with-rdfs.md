@@ -1,11 +1,13 @@
-Title: Knowledge Graphs 5 - Modelling with RDFS
-Date: 2019-10-03 12:02
-Author: aabs
-Category: programming
-Tags: knowledge graphs, modelling, RDF, Semantic Web
-Slug: knowledge-graphs-5-modelling-with-rdfs
-Status: published
-Attachments: 2019/10/edvard-alexander-rolvaag-e75zuaipczo-unsplash.jpg
+---
+title: Knowledge Graphs 5 - Modelling with RDFS
+date: 2019-10-03 12:02
+author: aabs
+category: programming
+tags: knowledge graphs, modelling, RDF, Semantic Web
+slug: knowledge-graphs-5-modelling-with-rdfs
+status: published
+attachments: 2019/10/edvard-alexander-rolvaag-e75zuaipczo-unsplash.jpg
+...
 
 This installment moves beyond the simple graph model of RDF to introduce the modelling support of RDF Schema. I will go on to show you how using the W3C Standard RDFS imbues your data with another layer of meaning, and makes it easier for you to enrich your raw data with meaning over time.
 

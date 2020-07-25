@@ -1,10 +1,12 @@
-Title: Relational Modeling? Not as we know it!
-Date: 2008-11-18 21:11
-Author: aabs
-Category: programming, Semantic Web
-Tags: databases, SemanticWeb, semweb
-Slug: relational-modeling-not-as-we-know-it
-Status: published
+---
+title: Relational Modeling? Not as we know it!
+date: 2008-11-18 21:11
+author: aabs
+category: programming, Semantic Web
+tags: databases, SemanticWeb, semweb
+slug: relational-modeling-not-as-we-know-it
+status: published
+...
 
 Marcello Cantos commented on my [recent post](http://aabs.wordpress.com/2008/09/23/object-orientation-not-as-we-know-it/) about the ways in which RDF can transcend the object-oriented model. He posed the question of what things RDF can represent more easily than the relational model. I know Marcello is a very high calibre software engineer, so it's not just an idle question from a relational dinosaur, but a serious question from someone who can push the envelope far with a relational database.
 

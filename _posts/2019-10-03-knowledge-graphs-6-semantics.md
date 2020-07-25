@@ -1,11 +1,13 @@
-Title: Knowledge Graphs 6 - Semantics
-Date: 2019-10-03 16:28
-Author: aabs
-Category: programming
-Tags: entailment, inference, knowledge graphs, RDF, rdfs, Semantic Web
-Slug: knowledge-graphs-6-semantics
-Status: published
-Attachments: 2019/10/donald-giannatti-zhptmnzz-nm-unsplash-1.jpg, 2019/10/donald-giannatti-zhptmnzz-nm-unsplash.jpg
+---
+title: Knowledge Graphs 6 - Semantics
+date: 2019-10-03 16:28
+author: aabs
+category: programming
+tags: entailment, inference, knowledge graphs, RDF, rdfs, Semantic Web
+slug: knowledge-graphs-6-semantics
+status: published
+attachments: 2019/10/donald-giannatti-zhptmnzz-nm-unsplash-1.jpg, 2019/10/donald-giannatti-zhptmnzz-nm-unsplash.jpg
+...
 
 With this installment we finally get to the part of knowledge graphs that I personally find really exciting: Semantics. In this installment, I will introduce some of the simple rules of entailment that are a part of the RDFS standard.
 

@@ -1,11 +1,13 @@
-Title: Knowledge Graphs 7 - Named Graphs
-Date: 2019-11-06 14:08
-Author: aabs
-Category: Semantic Web
-Tags: knowledge graphs, RDF
-Slug: knowledge-graphs-7-named-graphs
-Status: published
-Attachments: 2019/11/kamen-atanassov-xhqhvakoazg-unsplash.jpg
+---
+title: Knowledge Graphs 7 - Named Graphs
+date: 2019-11-06 14:08
+author: aabs
+category: Semantic Web
+tags: knowledge graphs, RDF
+slug: knowledge-graphs-7-named-graphs
+status: published
+attachments: 2019/11/kamen-atanassov-xhqhvakoazg-unsplash.jpg
+...
 
 Knowledge Graphs provide a neat and easy way to segment your data, called '*Named Graphs*'. This post shows how you access them, and different uses they may be put to.
 

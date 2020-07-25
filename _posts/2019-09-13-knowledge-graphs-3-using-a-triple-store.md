@@ -1,11 +1,13 @@
-Title: Knowledge Graphs 3 - Using a Triple Store
-Date: 2019-09-13 15:22
-Author: aabs
-Category: programming
-Tags: blazegraph, knowledge graphs, RDF, Semantic Web, sparql
-Slug: knowledge-graphs-3-using-a-triple-store
-Status: published
-Attachments: 2019/09/joao-tzanno-1nacmxqfpza-unsplash.jpg
+---
+title: Knowledge Graphs 3 - Using a Triple Store
+date: 2019-09-13 15:22
+author: aabs
+category: programming
+tags: blazegraph, knowledge graphs, RDF, Semantic Web, sparql
+slug: knowledge-graphs-3-using-a-triple-store
+status: published
+attachments: 2019/09/joao-tzanno-1nacmxqfpza-unsplash.jpg
+...
 
 [Last time](https://andrewmatthews.blog/2019/09/13/knowledge-graphs-2-playing-on-the-cli/) I showed you how to use CLI tools to build out your RDF data to more depth using Turtle files and how to query it using the Apache Jena CLI toolchain using SPARQL Query language. This time I'll show how to insert and retrieve data from a remote triple store. I'll continue using the CLI tools for now.
 

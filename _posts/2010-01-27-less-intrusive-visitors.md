@@ -1,9 +1,11 @@
-Title: Less Intrusive Visitors
-Date: 2010-01-27 19:00
-Author: aabs
-Category: .NET, programming
-Slug: less-intrusive-visitors
-Status: published
+---
+title: Less Intrusive Visitors
+date: 2010-01-27 19:00
+author: aabs
+category: .NET, programming
+slug: less-intrusive-visitors
+status: published
+...
 
 Forgive the recent silence - I've been in my shed.
 

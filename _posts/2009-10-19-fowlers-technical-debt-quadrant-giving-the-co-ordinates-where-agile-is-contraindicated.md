@@ -1,10 +1,12 @@
-Title: Fowler's Technical Debt Quadrant - Giving the co-ordinates where Agile is contraindicated.
-Date: 2009-10-19 08:39
-Author: aabs
-Category: programming
-Tags: agile, design, martin fowler, methodology, technical debt
-Slug: fowlers-technical-debt-quadrant-giving-the-co-ordinates-where-agile-is-contraindicated
-Status: published
+---
+title: Fowler's Technical Debt Quadrant - Giving the co-ordinates where Agile is contraindicated.
+date: 2009-10-19 08:39
+author: aabs
+category: programming
+tags: agile, design, martin fowler, methodology, technical debt
+slug: fowlers-technical-debt-quadrant-giving-the-co-ordinates-where-agile-is-contraindicated
+status: published
+...
 
 Martin Fowler's bliki has a very good post on what he calls the '[technical debt quadrant](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)'. This post succinctly sums up the difference between those who produce poor designs in ways that are contrary to their best interests, and those who do so knowingly and reluctantly.
 

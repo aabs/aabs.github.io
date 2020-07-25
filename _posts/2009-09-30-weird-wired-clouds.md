@@ -1,9 +1,11 @@
-Title: Weird Wired Clouds
-Date: 2009-09-30 10:44
-Author: aabs
-Category: science
-Slug: weird-wired-clouds
-Status: published
+---
+title: Weird Wired Clouds
+date: 2009-09-30 10:44
+author: aabs
+category: science
+slug: weird-wired-clouds
+status: published
+...
 
 Wired has a very interesting [article](http://www.wired.com/wiredscience/2009/09/clouds/) on strange or rare weather formations.
 

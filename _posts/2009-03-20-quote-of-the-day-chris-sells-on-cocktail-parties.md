@@ -1,9 +1,11 @@
-Title: Quote of the Day - Chris Sells on Cocktail Parties
-Date: 2009-03-20 08:52
-Author: aabs
-Category: SemanticWeb
-Slug: quote-of-the-day-chris-sells-on-cocktail-parties
-Status: published
+---
+title: Quote of the Day - Chris Sells on Cocktail Parties
+date: 2009-03-20 08:52
+author: aabs
+category: SemanticWeb
+slug: quote-of-the-day-chris-sells-on-cocktail-parties
+status: published
+...
 
 I can relate to [this](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=2260):
 

@@ -1,10 +1,12 @@
-Title: Semantic Overflow Highlights I
-Date: 2009-11-13 07:47
-Author: aabs
-Category: Semantic Web
-Tags: semantic-overflow, SemanticWeb, web3.0
-Slug: semantic-overflow-highlights-i
-Status: published
+---
+title: Semantic Overflow Highlights I
+date: 2009-11-13 07:47
+author: aabs
+category: Semantic Web
+tags: semantic-overflow, SemanticWeb, web3.0
+slug: semantic-overflow-highlights-i
+status: published
+...
 
 [Semantic Overflow](http://www.semanticoverflow.com/) has been active for a couple of weeks. We now have 155 [users](http://www.semanticoverflow.com/users) and 53 [questions](http://www.semanticoverflow.com/questions). We've already had some very interesting questions and some excellent detailed and thoughtful responses. I thought, on Egon's [instigation](http://www.semanticoverflow.com/questions/245/who-set-up-this-website-and-how-can-we-reach-him-her), to  bring together, from the site's BI stats, some of the highlights of last week.
 

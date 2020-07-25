@@ -1,10 +1,12 @@
-Title: Australian Port – a new WMD?
-Date: 2009-02-27 09:27
-Author: aabs
-Category: SemanticWeb
-Slug: australian-port-a-new-wmd
-Status: published
-Attachments: 2009/02/img-0048.jpg, 2009/02/img-0048-thumb.jpg
+---
+title: Australian Port – a new WMD?
+date: 2009-02-27 09:27
+author: aabs
+category: SemanticWeb
+slug: australian-port-a-new-wmd
+status: published
+attachments: 2009/02/img-0048.jpg, 2009/02/img-0048-thumb.jpg
+...
 
 [![IMG\_0048]({static}2009/02/img-0048-thumb.jpg "IMG_0048"){width="184" height="244"}]({static}2009/02/img-0048.jpg)
 

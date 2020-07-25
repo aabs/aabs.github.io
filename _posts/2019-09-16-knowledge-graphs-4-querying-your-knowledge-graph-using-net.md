@@ -1,11 +1,13 @@
-Title: Knowledge Graphs 4 - Querying your knowledge graph using .NET
-Date: 2019-09-16 12:54
-Author: aabs
-Category: .NET, programming, Semantic Web
-Tags: .NET, knowledge graphs, RDF
-Slug: knowledge-graphs-4-querying-your-knowledge-graph-using-net
-Status: published
-Attachments: 2019/09/jonas-jacobsson-hdjeq7-a-yq-unsplash.jpg
+---
+title: Knowledge Graphs 4 - Querying your knowledge graph using .NET
+date: 2019-09-16 12:54
+author: aabs
+category: .NET, programming, Semantic Web
+tags: .NET, knowledge graphs, RDF
+slug: knowledge-graphs-4-querying-your-knowledge-graph-using-net
+status: published
+attachments: 2019/09/jonas-jacobsson-hdjeq7-a-yq-unsplash.jpg
+...
 
 This installment leaves the CLI behind to show how we consume a knowledge graph within our programmatic environments. The framework I use to work with RDF is [dotNetRdf](http://www.dotnetrdf.org/).
 

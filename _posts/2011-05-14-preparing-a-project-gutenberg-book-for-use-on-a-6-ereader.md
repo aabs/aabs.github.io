@@ -1,11 +1,13 @@
-Title: Preparing a Project Gutenberg ebook for use on a 6" ereader
-Date: 2011-05-14 16:49
-Author: aabs
-Category: SemanticWeb
-Tags: bebook, gutenberg, gutenmark, LaTeX
-Slug: preparing-a-project-gutenberg-book-for-use-on-a-6-ereader
-Status: published
-Attachments: 2011/05/photo_71194a6e-bfd5-cb24-6596-08771504c330.jpg
+---
+title: Preparing a Project Gutenberg ebook for use on a 6" ereader
+date: 2011-05-14 16:49
+author: aabs
+category: SemanticWeb
+tags: bebook, gutenberg, gutenmark, LaTeX
+slug: preparing-a-project-gutenberg-book-for-use-on-a-6-ereader
+status: published
+attachments: 2011/05/photo_71194a6e-bfd5-cb24-6596-08771504c330.jpg
+...
 
 For a while I've been trying to find a nice way to convert project Gutenberg books to look pleasant on a [BeBook](http://www.mybebook.com) One. I've finally hit on the perfect combination of tools, that produces documents ideally suited to 6" eInk ebook readers like my BeBook. The tool chain involves using GutenMark to convert the file into LaTeX and then TeXworks to modify the geometry and typography of the LaTeX file to suit the dimensions of the document to suit the small screen of the BeBook, then MiKTeX to convert the resultant LaTeX files into PDF (using pdfLaTeX).  Go to [GutenMark (plus GUItenMark](http://aabs.wordpress.com/wp-admin/www.sandroid.org/GutenMark/)) for windows, [MikTeX](http://miktex.org) which includes the powerful TeX editor [TeXworks](http://code.google.com/p/texworks), install them, and ensure they are on the path.
 

@@ -1,9 +1,11 @@
-Title: Data Centre Strategy
-Date: 2017-03-21 13:22
-Author: aabs
-Category: strategy
-Slug: data-centre-strategy
-Status: published
+---
+title: Data Centre Strategy
+date: 2017-03-21 13:22
+author: aabs
+category: strategy
+slug: data-centre-strategy
+status: published
+...
 
 Do the fundamentals matter? {#popover311813 .popover .fade .top .in}
 ---------------------------

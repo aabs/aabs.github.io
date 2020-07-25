@@ -1,10 +1,12 @@
-Title: Sequential script loading on demand
-Date: 2009-12-16 10:26
-Author: aabs
-Category: functional programming, programming
-Tags: functional programming, javascript, jquery
-Slug: sequential-script-loading-on-demand
-Status: published
+---
+title: Sequential script loading on demand
+date: 2009-12-16 10:26
+author: aabs
+category: functional programming, programming
+tags: functional programming, javascript, jquery
+slug: sequential-script-loading-on-demand
+status: published
+...
 
 This little script uses the JQuery getScript command, enforcing sequential loading order to ensure script dependencies are honoured:
 

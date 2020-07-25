@@ -1,10 +1,12 @@
-Title: Telepathy - Fantasy or nearly Reality?
-Date: 2017-05-22 12:00
-Author: aabs
-Category: ideas, science
-Slug: telepathy-fantasy-or-nearly-reality
-Status: published
-Attachments: 2017/05/damon-carr-_m8vx3-agec-unsplash.jpg
+---
+title: Telepathy - Fantasy or nearly Reality?
+date: 2017-05-22 12:00
+author: aabs
+category: ideas, science
+slug: telepathy-fantasy-or-nearly-reality
+status: published
+attachments: 2017/05/damon-carr-_m8vx3-agec-unsplash.jpg
+...
 
 *here's an old post from literally years ago on the topic of human brain interfaces.  I just discovered it languishing in the wordpress drafts section.  Not sure how dated it is now (given 7 years of progress since I wrote this) but it would be good to hear what you think today...*
 

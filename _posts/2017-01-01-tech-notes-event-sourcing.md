@@ -1,10 +1,12 @@
-Title: Tech Notes:  Event Sourcing
-Date: 2017-01-01 13:33
-Author: aabs
-Category: architecture, functional programming, programming
-Slug: tech-notes-event-sourcing
-Status: published
-Attachments: 2017/01/talen-de-st-croix-ufi-_7hx5es-unsplash.jpg
+---
+title: Tech Notes:  Event Sourcing
+date: 2017-01-01 13:33
+author: aabs
+category: architecture, functional programming, programming
+slug: tech-notes-event-sourcing
+status: published
+attachments: 2017/01/talen-de-st-croix-ufi-_7hx5es-unsplash.jpg
+...
 
 **Title**: UPDATE your VIEW on DELETE: The benefits of Event Sourcing  
 **Speaker**: Sebastian von Conrad of [Envato](https://twitter.com/envato)  
