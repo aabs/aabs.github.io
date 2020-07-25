@@ -1,9 +1,11 @@
-Title: LinqToRdf now works on the Visual Studio 2008 Beta 2
-Date: 2007-08-25 08:54
-Author: aabs
-Tags: C#, LINQ
-Slug: linqtordf-now-works-on-the-visual-studio-2008-beta-2
-Status: published
+---
+title: LinqToRdf now works on the Visual Studio 2008 Beta 2
+date: 2007-08-25 08:54
+author: aabs
+tags: C#, LINQ
+slug: linqtordf-now-works-on-the-visual-studio-2008-beta-2
+status: published
+...
 
 I should have brought the code up to date weeks back - but other things got in the way. Still - all the unit tests are in the green.  And the code has been minimally converted over to the new .NET 3.5 framework. I say 'minimally' because with the introduction of beta 2 there is now an interface for IQueryProvider that seems to be a dispenser for objects that support IQueryable. I suspect that with IQueryProvider, there is now a canonical architecture that is recommended by the LINQ team. Probably that will mean moving more responsibility into the RDF\<T\> class away from the QuerySupertype.  Time (and more documentation from MS) will tell.
 

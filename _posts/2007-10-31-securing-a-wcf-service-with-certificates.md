@@ -1,10 +1,12 @@
-Title: Securing a WCF service with Certificates
-Date: 2007-10-31 15:03
-Author: aabs
-Category: programming
-Slug: securing-a-wcf-service-with-certificates
-Status: published
-Attachments: 2007/10/image-thumb7.png, 2007/10/image8.png, 2007/10/image-thumb3.png, 2007/10/image3.png, 2007/10/image-thumb2.png, 2007/10/image1.png, 2007/10/image4.png, 2007/10/image2.png, 2007/10/image-thumb8.png, 2007/10/image-thumb6.png, 2007/10/image7.png, 2007/10/image5.png, 2007/10/image-thumb4.png, 2007/10/image6.png, 2007/10/image-thumb5.png, 2007/10/image-thumb1.png
+---
+title: Securing a WCF service with Certificates
+date: 2007-10-31 15:03
+author: aabs
+category: programming
+slug: securing-a-wcf-service-with-certificates
+status: published
+attachments: 2007/10/image-thumb7.png, 2007/10/image8.png, 2007/10/image-thumb3.png, 2007/10/image3.png, 2007/10/image-thumb2.png, 2007/10/image1.png, 2007/10/image4.png, 2007/10/image2.png, 2007/10/image-thumb8.png, 2007/10/image-thumb6.png, 2007/10/image7.png, 2007/10/image5.png, 2007/10/image-thumb4.png, 2007/10/image6.png, 2007/10/image-thumb5.png, 2007/10/image-thumb1.png
+...
 
 For a client and server to talk securely with message level encryption, they both require certificates to encrypt and decrypt messages from the other. Those certificates need to be produced and installed on each machine. This post shows how that can be done, and what settings are required to work with the certificates. Thanks to Mitch Denny, who wrote a [very good post](http://notgartner.wordpress.com/2007/09/06/using-certificate-based-authentication-and-protection-with-windows-communication-foundation-wcf/) on the use of certificates, which helped a lot more than some of the official documentation. This post assumes that you're using Juval Lowy of IDesign's [ServiceModelEx](http://idesign.net/idesign/DesktopDefault.aspx?tabindex=5&tabid=11) extensions for WCF. If you're not, you should really consider these additions - they add declarative security and better validation amongst many other enhancements.
 

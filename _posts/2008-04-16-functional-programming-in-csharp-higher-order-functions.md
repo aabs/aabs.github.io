@@ -1,11 +1,13 @@
-Title: Functional Programming in C# - Higher-Order Functions
-Date: 2008-04-16 20:58
-Author: aabs
-Category: .NET, functional programming, programming
-Tags: .NET 3.5, C#, Computer Science, functional programming
-Slug: functional-programming-in-csharp-higher-order-functions
-Status: published
-Attachments: 2008/04/clip-image001-thumb.png, 2008/04/clip-image0015.png, 2008/04/clip-image0015-thumb.png, 2008/04/clip-image001.png
+---
+title: Functional Programming in C# - Higher-Order Functions
+date: 2008-04-16 20:58
+author: aabs
+category: .NET, functional programming, programming
+tags: .NET 3.5, C#, Computer Science, functional programming
+slug: functional-programming-in-csharp-higher-order-functions
+status: published
+attachments: 2008/04/clip-image001-thumb.png, 2008/04/clip-image0015.png, 2008/04/clip-image0015-thumb.png, 2008/04/clip-image001.png
+...
 
 1.  [Functional Programming - Is it worth your time?](http://aabs.wordpress.com/2008/04/09/functional-programming-is-it-worth-your-time/ "Functional Programming - Is it worth your time?")
 2.  [Functional Programming in C\# - Higher-Order Functions](http://aabs.wordpress.com/2008/04/16/unctional-programming-in-csharp-higher-order-functions/)

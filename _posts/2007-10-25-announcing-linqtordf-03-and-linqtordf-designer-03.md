@@ -1,10 +1,12 @@
-Title: Announcing LinqToRdf 0.3 and LinqToRdf Designer 0.3
-Date: 2007-10-25 20:36
-Author: aabs
-Category: .NET, Semantic Web
-Tags: .NET, C#, DSL, LINQ, LinqToRdf, N3, SemanticWeb, semweb
-Slug: announcing-linqtordf-03-and-linqtordf-designer-03
-Status: published
+---
+title: Announcing LinqToRdf 0.3 and LinqToRdf Designer 0.3
+date: 2007-10-25 20:36
+author: aabs
+category: .NET, Semantic Web
+tags: .NET, C#, DSL, LINQ, LinqToRdf, N3, SemanticWeb, semweb
+slug: announcing-linqtordf-03-and-linqtordf-designer-03
+status: published
+...
 
 The third release of LinqToRdf has been uploaded to GoogleCode. Go to the [project web site](http://code.google.com/p/linqtordf) for links to the latest release.
 

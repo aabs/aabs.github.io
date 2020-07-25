@@ -1,10 +1,12 @@
-Title: Søren on DBC
-Date: 2008-05-05 21:27
-Author: aabs
-Category: .NET, functional programming, programming
-Tags: .NET, DBC
-Slug: s%c3%b8ren-on-dbc
-Status: published
+---
+title: Søren on DBC
+date: 2008-05-05 21:27
+author: aabs
+category: .NET, functional programming, programming
+tags: .NET, DBC
+slug: s%c3%b8ren-on-dbc
+status: published
+...
 
 Recently, [Søren Skovsbøll](http://skarpt.dk/blog) wrote a excellent follow up to a little post I did a while back on using [C\# 3.0 expression trees](http://aabs.wordpress.com/2008/01/16/complex-assertions-using-c-30/) for representing predicates in design by contract. The conclusion of that series was that C\# was inadequate in lots of ways to the task of doing design by contract. Having said that, you can still achieve a lot using serialisation of object states and storage of predicates for running before and after a scope.
 

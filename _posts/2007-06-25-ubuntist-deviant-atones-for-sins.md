@@ -1,9 +1,11 @@
-Title: Ubuntist deviant atones for sins
-Date: 2007-06-25 20:42
-Author: aabs
-Tags: humour, Other Blogs, software
-Slug: ubuntist-deviant-atones-for-sins
-Status: published
+---
+title: Ubuntist deviant atones for sins
+date: 2007-06-25 20:42
+author: aabs
+tags: humour, Other Blogs, software
+slug: ubuntist-deviant-atones-for-sins
+status: published
+...
 
 Some time back I wrote  a [quote of the day](http://aabs.wordpress.com/2005/12/02/quote-of-the-day-3/): *There is no greater joy than soaring high on the wings of your dreams, except maybe the joy of watching a dreamer who has nowhere to land but in the ocean of reality.* For a moment I though the quote was apropos for Alec Clew's announcement of his apostasy, but after a moment's reflection I realize that it's not.
 

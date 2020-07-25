@@ -1,10 +1,12 @@
-Title: LinqToRdf v0.7.1 and RdfMetal
-Date: 2008-06-09 22:20
-Author: aabs
-Category: .NET, programming, science, Semantic Web, SemanticWeb
-Slug: linqtordf-v071-and-rdfmetal
-Status: published
-Attachments: 2008/06/clip-image0015.png, 2008/06/clip-image0015-thumb.png
+---
+title: LinqToRdf v0.7.1 and RdfMetal
+date: 2008-06-09 22:20
+author: aabs
+category: .NET, programming, science, Semantic Web, SemanticWeb
+slug: linqtordf-v071-and-rdfmetal
+status: published
+attachments: 2008/06/clip-image0015.png, 2008/06/clip-image0015-thumb.png
+...
 
 I've just uploaded [version 0.7.1](http://linqtordf.googlecode.com/files/LinqToRdf-0.7.1.msi) of LinqToRdf. This bug fix release corrects an issue I introduced in version 0.7. The issue only seemed to affect some machines and stems from the use of the GAC by the WIX installer (to the best of my knowledge). I've abandoned GAC installation and gone back to the original approach.
 

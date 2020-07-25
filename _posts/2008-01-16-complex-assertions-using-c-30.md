@@ -1,9 +1,11 @@
-Title: Complex Assertions in C#
-Date: 2008-01-16 13:44
-Author: aabs
-Category: .NET, programming
-Slug: complex-assertions-using-c-30
-Status: published
+---
+title: Complex Assertions in C#
+date: 2008-01-16 13:44
+author: aabs
+category: .NET, programming
+slug: complex-assertions-using-c-30
+status: published
+...
 
 Recently I [attempted](http://aabs.wordpress.com/2007/10/20/lambda-functions-for-design-by-contract/) to implement a declarative predicate checking system to allow design by contract (DBC) within C\# 3.0. I was not successful due to a limitation in the kind of parameters one can pass to an Attribute constructor in .NET (no lambdas). I thought I'd just follow that up with a simpler model based on extension methods.
 

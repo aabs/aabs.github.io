@@ -1,9 +1,11 @@
-Title: The Origins of SOA
-Date: 2007-12-05 21:50
-Author: aabs
-Category: SemanticWeb
-Slug: the-origins-of-soa
-Status: published
+---
+title: The Origins of SOA
+date: 2007-12-05 21:50
+author: aabs
+category: SemanticWeb
+slug: the-origins-of-soa
+status: published
+...
 
 I recently attended Juval Lowy's WCF Master class course in Sydney, and in the introduction to the course Juval made some really interesting observations about the origins and justifications of Service Oriented Architecture. I was reading over the notes I took the other day, and I thought they were worthy of a blog post. Thanks go to Juval for making the course entertaining with so many quotable observations. I've tried to relay them here as he said them. If I misquoted him or haven't kept the thread so clear, then the fault is mine.
 

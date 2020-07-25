@@ -1,8 +1,10 @@
-Title: Big Business and the Semantic Web
-Date: 2007-08-14 22:57
-Author: aabs
-Slug: big-business-and-the-semantic-web
-Status: published
+---
+title: Big Business and the Semantic Web
+date: 2007-08-14 22:57
+author: aabs
+slug: big-business-and-the-semantic-web
+status: published
+...
 
 It's clear that the unofficial policy of both Microsoft and Google is "*we don't believe in the semantic web*". It may not be clear why. The answer is unsurprising when you give it some thought, though: Big Business. Semantic search holds out the hope of users being able to compose meaningful queries and get relevant results. The price is that someone somewhere has to write down the answers in a meaningful way.
 

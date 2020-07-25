@@ -1,9 +1,11 @@
-Title: Silverlight HtmlElement wrappers
-Date: 2007-10-22 14:56
-Author: aabs
-Category: programming
-Slug: silverlight-htmlelement-wrappers
-Status: published
+---
+title: Silverlight HtmlElement wrappers
+date: 2007-10-22 14:56
+author: aabs
+category: programming
+slug: silverlight-htmlelement-wrappers
+status: published
+...
 
 I've been glancing at the HtmlElement class in Silverlight today. It's a nice system, but it's clearly a work in progress. Everything I've said in the past about lumping all of your object model into a single class applies to this. The thing that irritated me was that it wouldn't have been hard for the Silverlight 1.1 team to make the developer experience more palatable even if they were using the one class under the hood.` [sourcecode language='csharp']private void Test1() {   HtmlDocument document = HtmlPage.Document;   document.GetElementByID("Submit1").AttachEvent("onclick",     (object obj, EventArgs args) =>       {         Text1.SetAttribute("value", (++counter).ToString());         Text1.SetStyleAttribute("color", "blue");       }     ); }[/sourcecode]`
 

@@ -1,10 +1,12 @@
-Title: New Resources for LinqToRdf
-Date: 2008-09-15 13:10
-Author: aabs
-Category: .NET, programming, Semantic Web
-Tags: articles, LinqToRdf, RDF, SemanticWeb, semweb
-Slug: new-resources-for-linqtordf
-Status: published
+---
+title: New Resources for LinqToRdf
+date: 2008-09-15 13:10
+author: aabs
+category: .NET, programming, Semantic Web
+tags: articles, LinqToRdf, RDF, SemanticWeb, semweb
+slug: new-resources-for-linqtordf
+status: published
+...
 
 [John Mueller](http://www.devsource.com/cp/bio/John-Paul-Mueller/) recently sent through a link to a series of articles on working with RDF. As well as being a useful introduction to working with RDF, they use LinqToRdf for code examples.
 

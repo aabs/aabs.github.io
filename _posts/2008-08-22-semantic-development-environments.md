@@ -1,10 +1,12 @@
-Title: Semantic Development Environments
-Date: 2008-08-22 21:06
-Author: aabs
-Category: .NET, Semantic Web
-Tags: GGG, ideas, lintordf, programming, SemanticWeb, venture altruism, web3.0
-Slug: semantic-development-environments
-Status: published
+---
+title: Semantic Development Environments
+date: 2008-08-22 21:06
+author: aabs
+category: .NET, Semantic Web
+tags: GGG, ideas, lintordf, programming, SemanticWeb, venture altruism, web3.0
+slug: semantic-development-environments
+status: published
+...
 
 The semantic web is a GOOD THING by definition - anything that enables us to create smarter software without also having to create Byzantine application software must be a step in the right direction. The problem is - many people have trouble translating the generic term "smarter" into a concrete idea of what they would have to do to achieve that palladian dream. I think a few concrete ideas might help to firm up people's understanding of how the semantic web can help to deliver smarter products.
 

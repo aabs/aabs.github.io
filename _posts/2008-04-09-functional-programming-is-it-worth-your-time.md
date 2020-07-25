@@ -1,10 +1,12 @@
-Title: Functional programming - Is it worth your time?
-Date: 2008-04-09 22:18
-Author: aabs
-Category: .NET, programming
-Tags: .NET 3.5, C#, C# 3.0, functional programming
-Slug: functional-programming-is-it-worth-your-time
-Status: published
+---
+title: Functional programming - Is it worth your time?
+date: 2008-04-09 22:18
+author: aabs
+category: .NET, programming
+tags: .NET 3.5, C#, C# 3.0, functional programming
+slug: functional-programming-is-it-worth-your-time
+status: published
+...
 
 Short Answer: Yes!
 

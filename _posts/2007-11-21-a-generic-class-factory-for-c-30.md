@@ -1,9 +1,11 @@
-Title: A Generic Class Factory for C# 3.0
-Date: 2007-11-21 22:02
-Author: aabs
-Category: .NET, programming
-Slug: a-generic-class-factory-for-c-30
-Status: published
+---
+title: A Generic Class Factory for C# 3.0
+date: 2007-11-21 22:02
+author: aabs
+category: .NET, programming
+slug: a-generic-class-factory-for-c-30
+status: published
+...
 
 For years I've been using a design pattern I picked up back in my Java days to help me make legacy classes more testable with Mock objects. I've always had a few doubts about it, but it's been useful so many times that I've never bothered to change it. I always keep a handy code snippet for it on my dev machines and I can knock them out in seconds. I don't like it because I have to create a new class factory for every type that I want to control. This evening I decided it was about time that I brought it up to date with C\# 3.0 and .NET 3.5.
 

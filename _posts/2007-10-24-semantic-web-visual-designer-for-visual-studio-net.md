@@ -1,10 +1,12 @@
-Title: Semantic Web Visual Designer for Visual Studio .NET
-Date: 2007-10-24 00:48
-Author: aabs
-Category: .NET, programming, Semantic Web
-Slug: semantic-web-visual-designer-for-visual-studio-net
-Status: published
-Attachments: 2007/10/image-thumb.png, 2007/10/image.png
+---
+title: Semantic Web Visual Designer for Visual Studio .NET
+date: 2007-10-24 00:48
+author: aabs
+category: .NET, programming, Semantic Web
+slug: semantic-web-visual-designer-for-visual-studio-net
+status: published
+attachments: 2007/10/image-thumb.png, 2007/10/image.png
+...
 
 Just posting a quick update about progress with [LinqToRdf](http://code.google.com/p/linqtordf/) and a side-project I'm working on to create a visual design tool to allow you to do visual editing of ontologies in Visual Studio .NET 2008. Since I'm a very creative person, I've decided to call it LinqToRdfDesigner. :-)
 

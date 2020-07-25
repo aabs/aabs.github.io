@@ -1,10 +1,12 @@
-Title: Not another mapping markup language!
-Date: 2008-08-27 14:03
-Author: aabs
-Category: .NET, programming, Semantic Web
-Tags: C#, databases, Java, LINQ, LinqToRdf, mapping, mashups, ORM, RDB2RDF, SemanticWeb, semweb, web3.0
-Slug: not-another-mapping-markup-language
-Status: published
+---
+title: Not another mapping markup language!
+date: 2008-08-27 14:03
+author: aabs
+category: .NET, programming, Semantic Web
+tags: C#, databases, Java, LINQ, LinqToRdf, mapping, mashups, ORM, RDB2RDF, SemanticWeb, semweb, web3.0
+slug: not-another-mapping-markup-language
+status: published
+...
 
 Kingsley Idehen has again graciously given LinqToRdf some much needed [link-love](http://kidehen.typepad.com/kingsley_idehens_typepad/2008/08/virtuoso-linked.html). He mentioned it in a post that was primarily concerned with the issues of mapping between the ontology, relational and object domains. His assertion is that LinqtoRdf, being an offshoot of an ORM related initiative, is reversing the natural order of mappings. He believes that in the world of ORM systems, the emphasis should be in mapping from the relational to the object domain.
 

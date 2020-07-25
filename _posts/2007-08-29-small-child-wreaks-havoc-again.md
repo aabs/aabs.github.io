@@ -1,9 +1,11 @@
-Title: Small Child Wreaks Havoc. Again.
-Date: 2007-08-29 10:13
-Author: aabs
-Slug: small-child-wreaks-havoc-again
-Status: published
-Attachments: 2007/08/image1.png, 2007/08/image-thumb.png, 2007/08/image-thumb1.png, 2007/08/image.png
+---
+title: Small Child Wreaks Havoc. Again.
+date: 2007-08-29 10:13
+author: aabs
+slug: small-child-wreaks-havoc-again
+status: published
+attachments: 2007/08/image1.png, 2007/08/image-thumb.png, 2007/08/image-thumb1.png, 2007/08/image.png
+...
 
 Never leave your laptop unattended. If you do, your son will convert this:
 

@@ -1,10 +1,12 @@
-Title: SPARQL Tutorial Just Published On DeveloperWorks
-Date: 2008-04-23 20:22
-Author: aabs
-Category: programming, Semantic Web
-Slug: sparql-tutorial-just-published-on-developerworks
-Status: published
-Attachments: 2008/04/clip-image0016.png
+---
+title: SPARQL Tutorial Just Published On DeveloperWorks
+date: 2008-04-23 20:22
+author: aabs
+category: programming, Semantic Web
+slug: sparql-tutorial-just-published-on-developerworks
+status: published
+attachments: 2008/04/clip-image0016.png
+...
 
 [![clip\_image001\[6\]]({static}2008/04/clip-image0016.png){width="599" height="174"}](http://www.ibm.com/developerworks/edu/x-dw-x-sparql.html?S_TACT=105AGX01&S_CMP=HP)
 

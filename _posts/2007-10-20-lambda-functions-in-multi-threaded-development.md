@@ -1,8 +1,10 @@
-Title: Lambda Functions in Multi-threaded Development
-Date: 2007-10-20 21:47
-Author: aabs
-Slug: lambda-functions-in-multi-threaded-development
-Status: published
+---
+title: Lambda Functions in Multi-threaded Development
+date: 2007-10-20 21:47
+author: aabs
+slug: lambda-functions-in-multi-threaded-development
+status: published
+...
 
 I'm on one of Juval Lowy's WCF Masterclass courses at the moment. Needless to say, my mind is buzzing from the fire-hose brain-dump he's doing on us at the moment. It's wonderful to see someone so deeply in command of the technology, not to mention daunting at the sheer incline of the learning curve. He's had some influence on the development of both C\# and Visual Studio as well as WCF, so it's not surprising that he has sprinkled the course with some elegant little language features that joined the dots for me. With 1400 slides in his slide deck, there's plenty of space for language digressions as well.
 

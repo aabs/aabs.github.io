@@ -1,9 +1,11 @@
-Title: The Ambient Context Design Pattern in .NET
-Date: 2007-12-31 11:14
-Author: aabs
-Category: .NET, programming
-Slug: the-ambient-context-design-pattern-in-net
-Status: published
+---
+title: The Ambient Context Design Pattern in .NET
+date: 2007-12-31 11:14
+author: aabs
+category: .NET, programming
+slug: the-ambient-context-design-pattern-in-net
+status: published
+...
 
 For a piece of agent related work I'm doing at the moment I am making heavy use of multi-threaded development. I'm developing a little special purpose Agent Framework to manage some data that I maintain. As part of that work, I need to have an ambient context object to hold details about the currently active agent and the tasks that it is performing. This is a common [pattern](http://en.wikipedia.org/wiki/Design_Patterns) that we see used throughout the .NET framework. They're a powerful mechanism to keep useful data around, to define scopes and to provide cross-cutting capabilities. They provide functionality and a non-intrusive management mechanism without having to clutter the components that need them with additional parameters or static variables. In effect they are a form of controlled global variable that exists to maintain scoped information.
 
@@ -27,7 +29,7 @@ Also Known As
 Scope, Context Object
 
 Motivation (Forces)
--------------------
+------------------
 
 You have a problem that demands the use of scoping of execution blocks. You also need to supply execution policy information to those blocks, and a means to pass other information and functionality that is automatically available in sub-scopes. In addition you don't want to add these facilities as parameters to every method signature that you work with. Some of the code that exists in your sub-scopes may not be under your control, or may be third party code - this would prevent you from passing information to other sub-systems that need the contextual information you are attempting to supply.  You want a standardised system that will make such information available without having to recourse to costly shared data systems like a database.
 

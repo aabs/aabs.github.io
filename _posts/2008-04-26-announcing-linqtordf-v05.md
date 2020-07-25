@@ -1,9 +1,11 @@
-Title: Announcing LinqToRdf v0.5
-Date: 2008-04-26 19:31
-Author: aabs
-Category: .NET, programming, Semantic Web
-Slug: announcing-linqtordf-v05
-Status: published
+---
+title: Announcing LinqToRdf v0.5
+date: 2008-04-26 19:31
+author: aabs
+category: .NET, programming, Semantic Web
+slug: announcing-linqtordf-v05
+status: published
+...
 
 []{#msg_06050fdd438f8b01}The fifth release of LinqToRdf has just been uploaded to Google Code.
 

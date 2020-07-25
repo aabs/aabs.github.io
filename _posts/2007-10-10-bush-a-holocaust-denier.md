@@ -1,9 +1,11 @@
-Title: Bush a Holocaust Denier?
-Date: 2007-10-10 19:25
-Author: aabs
-Tags: armenian massacre, george w. bush, holocaust, iraq, politics
-Slug: bush-a-holocaust-denier
-Status: published
+---
+title: Bush a Holocaust Denier?
+date: 2007-10-10 19:25
+author: aabs
+tags: armenian massacre, george w. bush, holocaust, iraq, politics
+slug: bush-a-holocaust-denier
+status: published
+...
 
 Is it a coincidence that in the mid-evening news there was a report that the US was doing everything in its power to broker detente between Turkey and Iraq, and an hour later I heard reports of Bush pushing the House of Representatives not to pass a bill acknowledging the [Armenian Massacre](http://en.wikipedia.org/wiki/Armenian_massacre)?
 

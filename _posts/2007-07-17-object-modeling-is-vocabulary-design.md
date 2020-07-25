@@ -1,9 +1,11 @@
-Title: Object Modeling is Vocabulary Design
-Date: 2007-07-17 22:53
-Author: aabs
-Tags: Computer Science, programming, science
-Slug: object-modeling-is-vocabulary-design
-Status: published
+---
+title: Object Modeling is Vocabulary Design
+date: 2007-07-17 22:53
+author: aabs
+tags: Computer Science, programming, science
+slug: object-modeling-is-vocabulary-design
+status: published
+...
 
 Andrew Cantos raised some interesting philosophical points in reply to my partially tongue in cheek post [The Great Domain Model Debate - Solved](http://aabs.wordpress.com/2007/01/23/the-great-domain-model-debate-%e2%80%93-solved/#comment-10295) the other day. As ever, my short reply turned into a blog post and this is it. Andrew's point was that there is a metaphorical link between objects in a domain model and elementary particles in some physical system. The ability of these elements to take part in the wider system is often a function of their sheer simplicity rather than being loaded with complex properties. He use the example of Oxygen, as an example of something that can take part in many reactions, but which does not define or characterize those reactions. I extended the metaphor to observe that the same holds true when comparing Anemic Domain Models with their Rich brethren.
 

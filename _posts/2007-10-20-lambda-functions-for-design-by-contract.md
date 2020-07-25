@@ -1,8 +1,10 @@
-Title: Lambda Functions for Design By Contract
-Date: 2007-10-20 22:35
-Author: aabs
-Slug: lambda-functions-for-design-by-contract
-Status: published
+---
+title: Lambda Functions for Design By Contract
+date: 2007-10-20 22:35
+author: aabs
+slug: lambda-functions-for-design-by-contract
+status: published
+...
 
 This is sadly not one of those blog posts where I show you what I have managed to achieve. Instead it's one where I ask you if ***you*** have a solution for what I am after.
 

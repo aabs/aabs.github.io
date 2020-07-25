@@ -1,9 +1,11 @@
-Title: First Forays into F#
-Date: 2008-03-11 19:00
-Author: aabs
-Category: SemanticWeb
-Slug: first-forays-into-f
-Status: published
+---
+title: First Forays into F#
+date: 2008-03-11 19:00
+author: aabs
+category: SemanticWeb
+slug: first-forays-into-f
+status: published
+...
 
 Since I've been doing a lot of LINQ in the last year or so, I figured that I could improve my C\# 3.0 by improving my functional programming. I had two choices of language to explore: Haskell or F\#. F\# was the obvious choice, I'm doing this to be a better C\# programmer, right? I don't want to depart too far from C\# then.
 

@@ -1,11 +1,13 @@
-Title: Functional Programming - lessons from high-school arithmetic
-Date: 2008-05-29 21:49
-Author: aabs
-Category: .NET, functional programming, programming
-Tags: LINQ
-Slug: functional-programming-lessons-from-high-school-arithmetic
-Status: published
-Attachments: 2008/05/math.png
+---
+title: Functional Programming - lessons from high-school arithmetic
+date: 2008-05-29 21:49
+author: aabs
+category: .NET, functional programming, programming
+tags: LINQ
+slug: functional-programming-lessons-from-high-school-arithmetic
+status: published
+attachments: 2008/05/math.png
+...
 
 [[![]({static}2008/05/math.png){.size-full .wp-image-534 .aligncenter width="354" height="259"}](http://geekandpoke.typepad.com/)]{style="font-size:11pt;font-family:Calibri;"}
 

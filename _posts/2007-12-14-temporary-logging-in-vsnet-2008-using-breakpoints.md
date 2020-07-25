@@ -1,10 +1,12 @@
-Title: Temporary logging in VS.NET 2008 using Tracepoints
-Date: 2007-12-14 11:45
-Author: aabs
-Category: programming
-Slug: temporary-logging-in-vsnet-2008-using-breakpoints
-Status: published
-Attachments: 2007/12/image-thumb2.png, 2007/12/image1.png, 2007/12/image2.png, 2007/12/image-thumb1.png, 2007/12/image-thumb.png, 2007/12/image.png
+---
+title: Temporary logging in VS.NET 2008 using Tracepoints
+date: 2007-12-14 11:45
+author: aabs
+category: programming
+slug: temporary-logging-in-vsnet-2008-using-breakpoints
+status: published
+attachments: 2007/12/image-thumb2.png, 2007/12/image1.png, 2007/12/image2.png, 2007/12/image-thumb1.png, 2007/12/image-thumb.png, 2007/12/image.png
+...
 
 I'm not sure whether this feature existed before VS.NET 2008 - it may even be common knowledge that has just passed me by. But I think it's just as cool as hell!
 

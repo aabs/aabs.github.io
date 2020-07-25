@@ -1,10 +1,12 @@
-Title: Announcing LinqToRdf v0.8
-Date: 2008-08-01 23:04
-Author: aabs
-Category: .NET, programming, Semantic Web
-Tags: .NET, C#, LinqToRdf, RDF, SemanticWeb, semweb, web3, web3.0
-Slug: announcing-linqtordf-v08
-Status: published
+---
+title: Announcing LinqToRdf v0.8
+date: 2008-08-01 23:04
+author: aabs
+category: .NET, programming, Semantic Web
+tags: .NET, C#, LinqToRdf, RDF, SemanticWeb, semweb, web3, web3.0
+slug: announcing-linqtordf-v08
+status: published
+...
 
 I'm very pleased to announce the release of version 0.8 of LinqToRdf. This release is significant for a couple of reasons. Firstly, because it provides a preview release of RdfMetal and secondly because it is the first release containing changes contributed by someone other than yours truly. The changes in this instance being provided by Carl Blakeley of [OpenLink Software](http://www.openlinksw.com).
 

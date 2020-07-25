@@ -1,9 +1,11 @@
-Title: The Future of Search
-Date: 2007-09-04 23:40
-Author: aabs
-Tags: Computer Science
-Slug: the-future-of-search
-Status: published
+---
+title: The Future of Search
+date: 2007-09-04 23:40
+author: aabs
+tags: Computer Science
+slug: the-future-of-search
+status: published
+...
 
 The future of search lies in finding ways to bypass search engines altogether. Where information exists locally to make sense of what you’re after it’ll be used to create better searches. Data mining will be used to form a picture of what results go together, and what meanings a user attaches to a word. Alternative, unambiguous entry points to the web, like spatial search, will provide alternative, quicker routes to data for compatible hand-held devices.
 

@@ -1,11 +1,13 @@
-Title: Announcing LinqToRdf v0.6
-Date: 2008-05-04 22:54
-Author: aabs
-Category: .NET, programming, Semantic Web
-Tags: .NET, C#, LinqToRdf
-Slug: announcing-linqtordf-v06
-Status: published
-Attachments: 2008/05/clip-image0019-thumb.png, 2008/05/clip-image0017.png, 2008/05/clip-image0017-thumb.png, 2008/05/clip-image0015.png, 2008/05/clip-image0015-thumb.png, 2008/05/clip-image0019.png, 2008/05/image.png, 2008/05/image-thumb.png
+---
+title: Announcing LinqToRdf v0.6
+date: 2008-05-04 22:54
+author: aabs
+category: .NET, programming, Semantic Web
+tags: .NET, C#, LinqToRdf
+slug: announcing-linqtordf-v06
+status: published
+attachments: 2008/05/clip-image0019-thumb.png, 2008/05/clip-image0017.png, 2008/05/clip-image0017-thumb.png, 2008/05/clip-image0015.png, 2008/05/clip-image0015-thumb.png, 2008/05/clip-image0019.png, 2008/05/image.png, 2008/05/image-thumb.png
+...
 
 I've just uploaded LinqToRdf v0.6 with improved designer support for Visual Studio .NET 2008.
 

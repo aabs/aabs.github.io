@@ -1,10 +1,12 @@
-Title: Look at this pretty picture!
-Date: 2008-05-15 21:29
-Author: aabs
-Category: SemanticWeb
-Slug: look-at-this-pretty-picture
-Status: published
-Attachments: 2008/05/clip-image0016-thumb.png, 2008/05/clip-image0016.png
+---
+title: Look at this pretty picture!
+date: 2008-05-15 21:29
+author: aabs
+category: SemanticWeb
+slug: look-at-this-pretty-picture
+status: published
+attachments: 2008/05/clip-image0016-thumb.png, 2008/05/clip-image0016.png
+...
 
 [Prompted](http://notgartner.wordpress.com/2008/05/13/care-factor/) by [Mitch Denny](http://notgartner.wordpress.com) who was in turn [prompted](http://www.paulstovell.com/blog/whats-your-circle-of-interest) by [Paul Stovell](http://www.paulstovell.com), I am also exercising my Smart Art prowess in the name of proclaiming what I love, declaiming what I respect, and mentioning what I'd rather sweep under the carpet.
 

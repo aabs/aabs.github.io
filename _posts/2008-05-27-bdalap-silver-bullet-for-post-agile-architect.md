@@ -1,9 +1,11 @@
-Title: BDALAP - Silver bullet for post-agile architect
-Date: 2008-05-27 10:39
-Author: aabs
-Category: SemanticWeb
-Slug: bdalap-silver-bullet-for-post-agile-architect
-Status: published
+---
+title: BDALAP - Silver bullet for post-agile architect
+date: 2008-05-27 10:39
+author: aabs
+category: SemanticWeb
+slug: bdalap-silver-bullet-for-post-agile-architect
+status: published
+...
 
 Software svengali [Alec Clews](http://alecthegeek.wordpress.com/) has recently [delineated](http://alecthegeek.wordpress.com/2008/05/27/my-new-software-engineering-methodology-bdalap/) a methodology that brings together the best of both the Agile and Waterfall worlds into a single edible package that will keep us in work for years to come. The methodological guru said "*BDALAP recognises that certain design decisions are a) complex and b) have far reaching implications*". The solution, he says, is to perform Big Design As Late As Possible.
 

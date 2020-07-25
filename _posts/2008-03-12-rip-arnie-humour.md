@@ -1,10 +1,12 @@
-Title: RIP Arnie Humour
-Date: 2008-03-12 19:00
-Author: aabs
-Category: Semantic Web
-Slug: rip-arnie-humour
-Status: published
-Attachments: 2008/03/image-thumb.png, 2008/03/image.png
+---
+title: RIP Arnie Humour
+date: 2008-03-12 19:00
+author: aabs
+category: Semantic Web
+slug: rip-arnie-humour
+status: published
+attachments: 2008/03/image-thumb.png, 2008/03/image.png
+...
 
 My blogging has been pretty sporadic of late. My evenings have been spent working on a long SPARQL tutorial for IBM. It's just going through the last editorial reviews now (with the good folks at [Backstop Media](http://www.backstopmedia.com/)) and should be published in a day or two.
 

@@ -1,9 +1,11 @@
-Title: Using Mock Objects When Testing LINQ Code
-Date: 2007-06-26 12:56
-Author: aabs
-Tags: C#, LINQ, programming
-Slug: using-mock-objects-when-testing-linq-code
-Status: published
+---
+title: Using Mock Objects When Testing LINQ Code
+date: 2007-06-26 12:56
+author: aabs
+tags: C#, LINQ, programming
+slug: using-mock-objects-when-testing-linq-code
+status: published
+...
 
 I was wondering the other day whether LINQ could be used with NMock easily. One problem with testing code that has not been written to work with unit tests is that if you test business logic, you often end up making multiple round-trips to the database for each test run. With a very large test suite that can turn a few minute's work into hours for a test suite. the best approach to this is to use mock data access components to dispense canned results, rather than going all the way through to the database.
 

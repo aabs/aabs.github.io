@@ -1,10 +1,12 @@
-Title: Setting up SDB on SQL Server 2005
-Date: 2008-01-07 14:59
-Author: aabs
-Category: .NET, programming, Semantic Web
-Slug: setting-up-sdb-on-sql-server-2005
-Status: published
-Attachments: 2008/01/image2.png, 2008/01/image1.png, 2008/01/image-thumb2.png, 2008/01/image-thumb1.png, 2008/01/image-thumb.png, 2008/01/image.png
+---
+title: Setting up SDB on SQL Server 2005
+date: 2008-01-07 14:59
+author: aabs
+category: .NET, programming, Semantic Web
+slug: setting-up-sdb-on-sql-server-2005
+status: published
+attachments: 2008/01/image2.png, 2008/01/image1.png, 2008/01/image-thumb2.png, 2008/01/image-thumb1.png, 2008/01/image-thumb.png, 2008/01/image.png
+...
 
 [![image]({static}2008/01/image-thumb2.png){width="244" height="343"}]({static}2008/01/image2.png)For the non-Java developer, like me, setting up and configuring SDB can be tricky. While it's fresh in my mind I'll commit it to blog so that those who come after will not tear their hair out like I just did.
 

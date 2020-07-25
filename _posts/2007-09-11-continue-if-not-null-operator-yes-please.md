@@ -1,9 +1,11 @@
-Title: Continue if not null operator? Yes please!
-Date: 2007-09-11 14:55
-Author: aabs
-Tags: C#
-Slug: continue-if-not-null-operator-yes-please
-Status: published
+---
+title: Continue if not null operator? Yes please!
+date: 2007-09-11 14:55
+author: aabs
+tags: C#
+slug: continue-if-not-null-operator-yes-please
+status: published
+...
 
 [Olmo](http://forums.microsoft.com/MSDN/User/Profile.aspx?UserID=695544&SiteID=1) made a very worthwhile [suggestion](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2033762&SiteID=1) on the LINQ forums recently. His suggestion was for a new operator to be added to the C\# language to allow us to do away with the following kind of pesky construct:
 

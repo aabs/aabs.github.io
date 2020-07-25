@@ -1,10 +1,12 @@
-Title: Using Task Scheduler For GTD with OneNote 2007
-Date: 2008-02-12 08:37
-Author: aabs
-Category: SemanticWeb
-Slug: using-task-scheduler-for-gtd-with-onenote-2007
-Status: published
-Attachments: 2008/02/image4.png, 2008/02/image-thumb2.png, 2008/02/image.png, 2008/02/image-thumb.png, 2008/02/image-thumb3.png, 2008/02/image5.png, 2008/02/image-thumb4.png, 2008/02/image1.png, 2008/02/image-thumb5.png, 2008/02/image2.png, 2008/02/image3.png, 2008/02/image-thumb1.png
+---
+title: Using Task Scheduler For GTD with OneNote 2007
+date: 2008-02-12 08:37
+author: aabs
+category: SemanticWeb
+slug: using-task-scheduler-for-gtd-with-onenote-2007
+status: published
+attachments: 2008/02/image4.png, 2008/02/image-thumb2.png, 2008/02/image.png, 2008/02/image-thumb.png, 2008/02/image-thumb3.png, 2008/02/image5.png, 2008/02/image-thumb4.png, 2008/02/image1.png, 2008/02/image-thumb5.png, 2008/02/image2.png, 2008/02/image3.png, 2008/02/image-thumb1.png
+...
 
 [Aymeric Gaurat-Apelli](http://aymeric.gaurat.net/), against my will, has got me hooked on using OneNote, and like many people I started using it for organisation with [GTD](http://www.google.com.au/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGetting_Things_Done&ei=SMmwR-ngHqTIswKI0qnwCQ&usg=AFQjCNHi9227WDd1uvPMy9kZTRrMcKJIxA&sig2=k1UKesK9RZVMxE_zsdAEXA). I set up my OneNote the way that Rob from [7Breaths](http://www.blog.7breaths.co.uk) described in his [great blog series](http://www.blog.7breaths.co.uk/2007/04/gtd-with-onenote-set-up.html). But I found that I still need a little prompting from time to time. So I found a neat way to shove OneNote in my face at the beginning and end of every day to 'gently' persuade me to gather and process my tasks for the day.
 

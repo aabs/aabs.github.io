@@ -1,9 +1,11 @@
-Title: Announcing LinqToRdf v0.7
-Date: 2008-05-25 23:34
-Author: aabs
-Category: Semantic Web, SemanticWeb
-Slug: announcing-linqtordf-v07
-Status: published
+---
+title: Announcing LinqToRdf v0.7
+date: 2008-05-25 23:34
+author: aabs
+category: Semantic Web, SemanticWeb
+slug: announcing-linqtordf-v07
+status: published
+...
 
 I'm proud to say that I've finally uploaded [version 0.7 of LinqToRdf](http://linqtordf.googlecode.com/files/LinqToRdf-0.7.msi). This is by far the best release of [LinqToRdf](http://code.google.com/p/linqtordf/) (so far), and it now contains full support for relationship navigation out of the box. Relationship support has always been possible (provided you were intimately familiar with various undocumented parts of LINQ:), but with the automated support for instance URIs that came in version 0.6, it's now automatic.
 

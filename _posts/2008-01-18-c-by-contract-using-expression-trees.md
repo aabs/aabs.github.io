@@ -1,9 +1,11 @@
-Title: C# by Contract - Using Expression Trees
-Date: 2008-01-18 16:00
-Author: aabs
-Category: SemanticWeb
-Slug: c-by-contract-using-expression-trees
-Status: published
+---
+title: C# by Contract - Using Expression Trees
+date: 2008-01-18 16:00
+author: aabs
+category: SemanticWeb
+slug: c-by-contract-using-expression-trees
+status: published
+...
 
 [Last time](http://aabs.wordpress.com/2008/01/16/complex-assertions-using-c-30/) I created a simple, but powerful, little [design by contract](http://en.wikipedia.org/wiki/Design_by_contract) library in C\# 3.0. It took hardly any lines of code, and covered a broad range of possible usage scenarios. See [here](http://archive.eiffel.com/doc/manuals/technology/contract/), for more on DBC. One thing that bothered me was the fact that if something failed a check, it wouldn't tell what went wrong. I had a little free time today, so I thought I'd fix that. I wanted the exceptions it threw to have the text of the check we were performing. Developers need to see exactly what test failed. Generic "*assertion failed*" error messages are useless.
 

@@ -1,10 +1,12 @@
-Title: Wanted: Volunteers for .NET semantic web framework project
-Date: 2008-08-02 08:34
-Author: aabs
-Category: .NET, programming, Semantic Web
-Tags: .NET, FOSS, help, LINQ, LinqToRdf, open source, RDF, SemanticWeb, web3, web3.0
-Slug: wanted-volunteers-for-net-semantic-web-framework-project
-Status: published
+---
+title: Wanted: Volunteers for .NET semantic web framework project
+date: 2008-08-02 08:34
+author: aabs
+category: .NET, programming, Semantic Web
+tags: .NET, FOSS, help, LINQ, LinqToRdf, open source, RDF, SemanticWeb, web3, web3.0
+slug: wanted-volunteers-for-net-semantic-web-framework-project
+status: published
+...
 
 LinqToRdf\* is a full-featured LINQ\*\* query provider for .NET written in C\#. It provides developers with an intuitive way to make queries on semantic web databases. The project has been going for over a year and it's starting to be noticed by semantic web early adopters and semantic web product vendors\*\*\*. LINQ provides a standardised query language and a platform enabling any developer to understand systems using semantic web technologies via LinqToRdf. It will help those who don't have the time to ascend the semantic web learning curve to become productive quickly.
 

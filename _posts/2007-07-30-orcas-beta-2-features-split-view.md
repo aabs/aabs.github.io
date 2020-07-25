@@ -1,10 +1,12 @@
-Title: Orcas Beta 2 Features - Split View
-Date: 2007-07-30 15:39
-Author: aabs
-Tags: ASP.NET
-Slug: orcas-beta-2-features-split-view
-Status: published
-Attachments: 2007/07/image-thumb1.png, 2007/07/image-thumb2.png, 2007/07/image1.png
+---
+title: Orcas Beta 2 Features - Split View
+date: 2007-07-30 15:39
+author: aabs
+tags: ASP.NET
+slug: orcas-beta-2-features-split-view
+status: published
+attachments: 2007/07/image-thumb1.png, 2007/07/image-thumb2.png, 2007/07/image1.png
+...
 
 In Beta 2, MS have given ASP.NET web forms and controls the Cider treatment. That is - you are shown the design and markup views side by side just as in the visual designer for WPF. This is called "Split View", and can be extremely useful - unless your page uses controls that don't behave well in design view. In that case you're probably going to want to turn them off.
 
