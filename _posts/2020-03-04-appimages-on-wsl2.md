@@ -1,12 +1,17 @@
-Title: AppImages on WSL2
-Date: 2020-03-04 13:31
-Author: aabs
-Category: Semantic Web
-Slug: appimages-on-wsl2
-Status: published
-Attachments: 2020/03/fish-logo.png
+---
+title: AppImages on WSL2
+date: 2020-03-04 13:31
+author: aabs
+category: Semantic Web
+slug: appimages-on-wsl2
+status: published
+attachments: 2020/03/fish-logo.png
+...
 
-This is a reminder to self, for those times when you just gotta have `vim` and `fishdots` on a recent version of `fish` shell (and someone upstream has completely screwed up the CA certificates so you can't use `apt` or linux`brew` because they can't be configured to relax cacert security).
+This is a reminder to self, for those times when you just gotta have `vim` and
+`fishdots` on a recent version of `fish` shell (and someone upstream has
+completely screwed up the CA certificates so you can't use `apt` or linux`brew`
+because they can't be configured to relax cacert security).
 
 First, create a place for them to live
 
